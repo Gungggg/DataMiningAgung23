@@ -40,7 +40,7 @@ feature_names = tools['feature_names']
 # 2. SIDEBAR (METODE & PERFORMA)
 # ==========================================
 st.sidebar.title("⚙️ Konfigurasi Model")
-
+st.sidebar.title("@copyright Agung Setyadi - 2023")
 # Pilihan Model (Metode B: Head-to-Head)
 model_choice = st.sidebar.selectbox(
     "Pilih Algoritma Cerdas:",
